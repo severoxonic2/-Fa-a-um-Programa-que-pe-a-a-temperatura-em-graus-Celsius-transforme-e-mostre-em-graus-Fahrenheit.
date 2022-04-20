@@ -1,0 +1,4 @@
+>>c = input(“Digite o valor de c : “)
+>>vt = c * 1.8
+>>f = vt + 32
+>>print f
